@@ -1,0 +1,53 @@
+Petrol
+Skoda Kushaq
+Nissan Kicks
+Volkswagen Taigun
+Maruti Suzuki Vitara Brezza
+Toyota Urban Cruiser
+Tata Punch
+Maruti Suzuki S-Cross
+Mahindra XUV 300
+Kia Sonet
+Mahindra Thar
+MG Hector Plus
+MG Hector
+Kia Seltos
+Honda WR-V
+Hyundai Venue
+Mahindra Scorpio N
+Tata Nexon
+
+Diesel
+Mahindra Scorpio Classic
+Mahindra XUV 300
+Kia Sonet
+Mahindra Thar
+MG Hector Plus
+MG Hector
+Kia Seltos
+Honda WR-V
+Hyundai Venue
+Mahindra Scorpio N
+Tata Nexon
+
+EV
+Tata Nexon EV Max 
+MG ZS EV 
+Hyundai Kona Electric
+
+Hybrid
+MG Hector Plus
+MG Hector
+
+
+
+
+
+
+
+
+
+
+
+
+

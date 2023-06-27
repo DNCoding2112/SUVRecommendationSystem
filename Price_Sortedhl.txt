@@ -1,0 +1,22 @@
+#1.Jeep Meridian-29.9
+#2.Hyundai Kona Electric-23.8
+#3.MG ZS EV-22
+#4.Nexon EV Max-17.74
+#5.Hector Plus-14.65
+#6.MG Hector-14.15
+#7.Mahindra Thar-13.53
+#8.Scorpio Classic-13.53	
+#9.Scorpio N-11.99
+#10.Taigun-11.4
+#11.Skoda Kushaq-11.29
+#12.Kia Seltos-10.19
+#13.Urban Cruise-9.82
+#14.Nissan Kicks-9.5
+#15.Honda WR-V-9.02
+#16.S-cross-8.71
+#17.XUV 300-8.41
+#18.Vitara Brezza-7.82
+#19.Nexon-7.54
+#20.Kia Sonet-7.15
+#21.Hyundai Venue-7.11
+#22.Tata Punch-5.83
